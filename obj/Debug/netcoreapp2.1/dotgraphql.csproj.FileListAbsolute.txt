@@ -4,3 +4,11 @@
 /Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.RazorAssemblyInfo.cs
 /Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.AssemblyInfoInputs.cache
 /Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.AssemblyInfo.cs
+/Users/ames/dotgraphql/bin/Debug/netcoreapp2.1/dotgraphql.deps.json
+/Users/ames/dotgraphql/bin/Debug/netcoreapp2.1/dotgraphql.runtimeconfig.json
+/Users/ames/dotgraphql/bin/Debug/netcoreapp2.1/dotgraphql.runtimeconfig.dev.json
+/Users/ames/dotgraphql/bin/Debug/netcoreapp2.1/dotgraphql.dll
+/Users/ames/dotgraphql/bin/Debug/netcoreapp2.1/dotgraphql.pdb
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.RazorTargetAssemblyInfo.cache
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.dll
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.pdb
