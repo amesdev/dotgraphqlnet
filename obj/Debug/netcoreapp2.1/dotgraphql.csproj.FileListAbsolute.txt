@@ -1,0 +1,6 @@
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.csprojAssemblyReference.cache
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.csproj.CoreCompileInputs.cache
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.RazorAssemblyInfo.cache
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.RazorAssemblyInfo.cs
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.AssemblyInfoInputs.cache
+/Users/ames/dotgraphql/obj/Debug/netcoreapp2.1/dotgraphql.AssemblyInfo.cs
